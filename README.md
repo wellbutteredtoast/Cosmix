@@ -1,7 +1,7 @@
 # Cosmix
 
-[![Top language]()]
-[![License]()]
+[![Top language](https://img.shields.io/github/languages/top/wellbutteredtoast/Cosmix?Shell-4EAA25?&style=plastic&logo=gnu-bash&logoColor=white)]
+[![License](https://img.shields.io/github/license/wellbutteredtoast/Cosmix)](https://github.com/wellbutteredtoast/Cosmix/blob/main/LICENSE)
 
 ## What is Cosmix?
 
